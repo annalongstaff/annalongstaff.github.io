@@ -17,9 +17,8 @@ title: Annabelle Longstaff Workshop
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Annabelle's personal website for REL 315!
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: annalongstaff
+minimal_mistakes_skin: aqua
 search: true
 
 # Build settings
