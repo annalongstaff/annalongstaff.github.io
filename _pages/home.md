@@ -1,8 +1,7 @@
 ---
 permalink: /
 title: "Home"
----
-## Heading lv 2
+## Welcome
 ##### sub
 paragraph
 ## heading 2
