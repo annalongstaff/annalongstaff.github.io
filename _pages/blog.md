@@ -1,0 +1,2 @@
+permalink: /Blog/
+title: "Blog"
