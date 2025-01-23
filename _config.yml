@@ -59,27 +59,23 @@ author:
   avatar : "/assets/images/IMG_2410.jpeg"
   bio    : "REL 315 Worskshop 1= Personal Website"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/annalongst/"
     - label: "Pinterest"
       icon: "fab fa-fw fa-pinterest"
       url: "https://www.pinterest.com/annalongst/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/annalongst/"
+
+    
 
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/annalongst/"
+    - label: "Pinterest"
+      icon: "fab fa-fw fa-pinterest"
+      url: "https://www.pinterest.com/annalongst/"
 
 defaults:
   # _posts
