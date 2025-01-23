@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Annabelle Longstaff"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "REL 315 Worskshop 1= Personal Website"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
